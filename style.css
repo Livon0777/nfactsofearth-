@@ -1,0 +1,44 @@
+
+
+body{
+    text-align: center;
+   background-image: url("./125863-red_yellow_and_blue_parrot-2072x2590.png") ;
+   
+   
+   
+}
+h1{
+    color:#580011;
+    text-shadow:0 0 30px white;
+    font: 1em sans-serif;
+  
+        font-size: 100px;
+    font-family : 'Mochiy Pop P One', sans-serif;
+    
+}
+p{
+font-style: italic;
+color:green;
+
+
+
+font-size: 35px;
+font-family: 'Dancing Script', cursive;
+font-size: 30px;
+ 
+padding: 10px;
+}
+a{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.ima{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1300px;
+    height: 600px;
+}
+img{
+    border: 10px rgb(11, 128, 0) solid;
+}
